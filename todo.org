@@ -1,0 +1,9 @@
+#+TITLE: src-versioner: Project Tracking
+#+AUTHOR: YohananDiamond
+
+* TODO Add new arguments
+- "-o" for output
+- "-v" for version name - which is the first arg, but there should be an option for it in case some other argument is provided before
+- "-i" for input - replacing the "src/" folder
+
+* TODO Experiment exporting to C with /Cython/
